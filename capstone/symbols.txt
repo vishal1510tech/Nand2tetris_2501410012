@@ -1,7 +1,0 @@
-LOOP = 0
-SET_WHITE = 8
-DRAW_INIT = 10
-DRAW_LOOP = 18
-color = 16
-addr = 17
-count = 18
